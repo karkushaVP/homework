@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyChXwMOFQ-9wRkn2HpHhmJ2mIYQEgnPZh0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>195784953374</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>student.Homework</string>
+	<key>PROJECT_ID</key>
+	<string>homework2-de05f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>homework2-de05f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:195784953374:ios:d08a7b8c135b618194280f</string>
+	<key>DATABASE_URL</key>
+	<string>https://homework2-de05f-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
